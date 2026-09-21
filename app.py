@@ -19,7 +19,7 @@ st.set_page_config(
 # LOAD DATA
 # --------------------------------------------------
 
-df = pd.read_csv("Palo Alto Networks.csv")
+df = pd.read_excel("Palo Alto Networks.xls")
 
 
 # --------------------------------------------------
